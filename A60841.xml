@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reflections on the paper delivered unto the sheriffs of London, by James Holloway at the time of his execution entred according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60841</idno>
+            <idno type="STC">Wing S4587</idno>
+            <idno type="STC">ESTC R17911</idno>
+            <idno type="EEBO-CITATION">11936284</idno>
+            <idno type="OCLC">ocm 11936284</idno>
+            <idno type="VID">51191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51191)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reflections on the paper delivered unto the sheriffs of London, by James Holloway at the time of his execution entred according to order.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Davis,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holloway, James, d. 1684. --  Free and voluntary confession and narrative of J. Holloway (addressed to His Majesty)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51191:1"/>
+            <pb facs="tcp:51191:1" rendition="simple:additions"/>
+            <head>SOME REFLECTIONS ON THE PAPER DELIVERED UNTO THE Sheriffs of LONDON, BY JAMES HOLLOWAY At the time of his EXECUTION.</head>
+            <head type="sub">Entred according to ORDER.</head>
+            <p>IT cannot be otherwiſe than matter of aſto<g ref="char:EOLhyphen"/>niſhment to all Loyal and Ingenuous Men, to behold the unquiet and reſtleſs Princi<g ref="char:EOLhyphen"/>ples of too many amongſt us, who think it not enough to broach and ſpread about their Doctrines of diſobedience, but alſo to endea<g ref="char:EOLhyphen"/>vour to debauch the Palates and Underſtanding of their Pupils, ſo that the Poyſon they deliver may be eſteemed as the wholſomeſt Food they receive; of ſuch Men, and ſuch Principles, we have lately met remarkable inſtances: A Horrid Conſpiracy hath been a foot, a Conſpiracy to ruine the Go<g ref="char:EOLhyphen"/>verment we live under, to deſtroy the beſt of Kings, and the beſt of Religions, and this appa<g ref="char:EOLhyphen"/>rently proved by ſuch pregnant Teſtimonies, that Infidelity it ſelf might have been ſilenced. The Judgment of God hath overtaken many of the Conſpirators, and juſtly have they ſuffered for the ſame; yet hath the Impudence of thoſe men been ſo extravagant, that they have, and do en<g ref="char:EOLhyphen"/>deavour to Ridicule and Sham the ſame, and in plain words tell the World,<note n="(a)" place="margin">Sir S. <hi>Barnardi-ſtones</hi> Let<g ref="char:EOLhyphen"/>ters in his Tryal.</note> 
+               <hi>The Plot is loſt here except you find it in the Country amongst the Abhor<g ref="char:EOLhyphen"/>rers and Addreſſers.</hi> It will not therefore be amiſs if we examine the Confeſſion of the laſt Sufferer, who, at the brink of death, when his Soul was ready to launch forth into the Ocean of Eternity, and the proſpect of Judgment and Immortality was before him, freely and voluntarily aſſerted his knowledge of thoſe Crimes he came to ſuffer for: And tho' we needed nothing of this nature to corroborate the other proofs thereof, yet as the ſame were the words of a dying Man, they may prevail on the miſled and ignorant, to take off that prejudice they have too long lain under; and ſatisfy the whole world, that thoſe who pre<g ref="char:EOLhyphen"/>tend the greateſt Innocency, and deceive man<g ref="char:EOLhyphen"/>kind with their falſe and ſpecious pretences of aſſerting the Liberties and Properties of the Peo<g ref="char:EOLhyphen"/>ple, are the very men, that in the ſame breath, at the ſame time intended the greateſt Invaſions thereupon.</p>
+            <p>In order to which examination, I ſhall only take to pieces that Paper Mr. <hi>Holloway</hi> delivered at the time of his Death to our preſent Sheriffs; wherein he begins:</p>
+            <p>
+               <hi>To ſtop the Mouths,</hi> &amp;c. <hi>of all Pamphleteers and News-Scriblers, who have done more prejudice to His Majeſty and Kingdoms by their impudent endeavours to Sham all Plots, and to fill the Country with falſe news than they will be ever able to retrieve and to ſatisfie: all I leave behind me, I thought good to draw up a ſhort account of what I knew of the late</hi> Proteſtant-Plot, &amp;c.</p>
+            <p>Herein the Reader may obſerve a plain Confeſ<g ref="char:EOLhyphen"/>ſion of the Plot in groſs, the <hi>Proteſtant-Plot</hi> as the Sufferer termed it, and his Reaſon for pub<g ref="char:EOLhyphen"/>liſhing what he knew thereof, To ſtop the mouths of ſuch virulent and impudent Scriblers who en<g ref="char:EOLhyphen"/>deavour to Sham the ſame, and put a falſe gloſs upon ſuch black and Tremendous Actions; nor is
+<pb facs="tcp:51191:2"/>he at all out in his opinion, that ſuch as theſe do a greater injury to the King and Kingdom than they are or can be in any Capacity to retrieve; for if we conſider how great a Providence was ſeen in the diſcovery of the Nations worſt and moſt implacable enemies in the midſt of their horrid and abominable Contrivances, all endea<g ref="char:EOLhyphen"/>vours to ſtifle the ſame muſt needs be Impious in the higheſt degree, for hereby the Government is ſlaundered as unjuſt and cruel for ſhedding the blood of ſuch who have lawfully ſuffered in the ſame; Rebellion is covered with the name of In<g ref="char:EOLhyphen"/>nocence; the ſentence of the Law duely execu<g ref="char:EOLhyphen"/>ted is called Murder; Vice wears the mask of Vertue: The Wolf is got into Sheeps cloathing, and none can diſcern his Enemy in the diſguiſe of Friendſhip; tho' the Pit be dug to betray us, we are led on in a pleaſant and enticing Path, with<g ref="char:EOLhyphen"/>out fear or apprehenſion of our danger, till the moment of our Ruine confronts our Preſumption. But farther proceeds the Sufferer, to the particu<g ref="char:EOLhyphen"/>lars of his concern in the ſaid Plot, wherein he aſcribes his firſt knowledge thereof to his Publick Spirit, which led him to attend Affairs beyond that capacity wherein he had been bred, in the following of Parliaments for the perfecting ſome deſigns on foot in order to the improvement of the Linnen Manufacture, <hi>&amp;c.</hi> In which I would obſerve, That men, when they leave the Calling that Providence hath allotted them, and would ſoar into a ſphere above them, they very rarely miſs the fate of <hi>Dedalus,</hi> their Molten Wings de<g ref="char:EOLhyphen"/>ceive them, and their fall too late gives them no<g ref="char:EOLhyphen"/>tice of their ruine. And here adds he in this At<g ref="char:EOLhyphen"/>tendance upon that Parliament, <hi>The more I knew, the more I was deſirous to know, and did by ſome Scriblers and News-mongers conſtantly know moſt of the publick affairs that were acted, which they un<g ref="char:EOLhyphen"/>dertook to repreſent according to their own humour; many Actions being repreſented very Illegal, much againſt the Proteſtant intereſt in favour of Papiſts,</hi> &amp;c. <hi>Shamming the Popiſh Plot upon the Proteſtants, abuſing the Rights and Priviledges of the Subjects, the truth of which I leave to the judgement of all; but hearing many ſuch-like things, was eaſily prevail<g ref="char:EOLhyphen"/>ed with to be concerned in the Plot, according as it was propoſed to me,</hi> &amp;c.</p>
+            <p>When the Devil hath a work to do, he uſual<g ref="char:EOLhyphen"/>ly Employs ſuch Agents as may beſt deceive the Incautelous, and accordingly ſo diſguiſes them, and puts ſuch Words into their Mouths, that you would take them rather for Angels of Light, than Miniſters of the Infernal Lord. The Lying Prophets came in the name of God with as much Zeal in their mouths, and appearing Truth, as thoſe by God himſelf appointed; nor in like man<g ref="char:EOLhyphen"/>ner was the late faction any thing cautious of cloaking their pretences in the Livery of Heaven, Zeal was in their mouth, and Treaſon in their hearts; Property and Liberty was their cry, Sla<g ref="char:EOLhyphen"/>very and Bondage their deſign; True Proteſtant Reformation their pretence, Hereſy and Schiſme, the Deſtruction and Ruine of the Eſtabliſhed Re<g ref="char:EOLhyphen"/>ligion and Government their laſt aim; and in ſhort, knowing they could never perpetrate their bloody and worſe than ſavage intetions, if the ſame were brought in naked, they Cloathed their Deformities in a Presbiterian Jump, and made Religion the Pander to uſher in the Cheat. But further he goes on, <hi>About</hi> July 1682. <hi>I met</hi> (ſays he) <hi>a perſon who gave me an account touching the Election of Sheriffs of</hi> London, &amp;c. <hi>and the Illegal<g ref="char:EOLhyphen"/>lity thereof, as he repreſented the ſame; whereupon the Proteſtant Gentry were reſolved to remedy what was deſigned, by an Inſurrection in ſeveral parts of the Kingdom; and, if poſſible, to get the King off from his Evil Councellors,</hi> &amp;c. <hi>That it ſhould begin at</hi> London, Briſtol, Exeter, Taunton, Cheſter, York, New-Caſtle, <hi>and therefore deſired we might conſider how it might be managed in</hi> Briſtol, <hi>which they did, and concluded, that</hi> Briſtol <hi>with about Three hundred and fifty men might be eaſily ſurpriſed,</hi> &amp;c.</p>
+            <p>
+               <hi>In</hi> April, ſays he, <hi>I heard of another deſign a<g ref="char:EOLhyphen"/>gainſt the King and Duke of</hi> York, <hi>as they were to come from</hi> New-market, &amp;c. <hi>When I heard it, I declared my abhorrance of any ſuch thing, I was con<g ref="char:EOLhyphen"/>fident none in our parts would be for it.</hi>
+            </p>
+            <p>Here he confeſſes he did know of this deſign, and tho' he would be thought ingenuous, in his abhorrence thereof, yet too much of the Phanati<g ref="char:EOLhyphen"/>cal Leven poſſeſſed him, Why did he not reveal it? Can that man be ſaid to abhor a Crime, that when the ſame is diſcovered to him conceals it, and Cloſſets it in his breaſt till the ſame is perpe<g ref="char:EOLhyphen"/>trated on his Neighbour? much more in this caſe, the Life of His Moſt Sacred Majeſty and that of his Royal Brother were deſigned, the very Arms bought and ready that were to effect the ſame; the men, the manner, the place, and every cir<g ref="char:EOLhyphen"/>cumſtance agreed on the Helliſh wickedneſs in proſpect of performance; the performance ſo ex<g ref="char:EOLhyphen"/>ecrable in it ſelf, that words are not ſignificant enough to expreſs the horror of it, nor Imagi<g ref="char:EOLhyphen"/>nation comprehenſive to fathom its guilt; and yet to cover this, to lodge it quietly in his breaſt, and yet own, or brag of his abhorrance of it, is Hypocriſy againſt the Devil, and can admit of no excuſe. But further he ſays.</p>
+            <p>
+               <hi>The general Deſign for the Inſurrection was carried on by others, who tho' they made a great ſtir in the Nation, trying the Inclinations of people, and had treated with the</hi> Scots <hi>and</hi> Iriſh <hi>as I heard, who were to be ready at the ſame time, yet never came to any reſolution as to any time or Method before all was diſ<g ref="char:EOLhyphen"/>covered, tho' they had been Eleven Months contri<g ref="char:EOLhyphen"/>ving it from the time I firſt heard it. This I hope will be enough to ſatisfie all people there was a PLOT.</hi>
+            </p>
+            <p>Had we had no other Proof, ſurely this muſt, beyond all doubt, ſatisfy the whole World of the truth of theſe Deſigns; yet can I not but ob<g ref="char:EOLhyphen"/>ſerve how nearly the ſame agrees with every part of that Evidence that hath been before given in at the Tryals of ſuch who have deſervedly ſuffered Death for the ſame, the like previous complaints you were by them acquainted with, the Magiſtracy illegally choſen, Popiſh Councels and Miniſters about the King, Arbitrary Govern<g ref="char:EOLhyphen"/>ment coming upon us, Property and Liberty in<g ref="char:EOLhyphen"/>vaded, Shamming the Popiſh Plot, <hi>&amp;c.</hi> And there<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:51191:2"/>upon theſe grounds (ſay they) the Rebellion was intended, and the Death of the King and His Royal Highneſs deſigned, and all this and you ſee is but a counterpart of this Gentlemans laſt words; ſo that though all good Men never doubted the veracity hereof before, yet now cer<g ref="char:EOLhyphen"/>tainly the worſt can never have Impudence e<g ref="char:EOLhyphen"/>nough to go about to evade it. When the late <hi>Jeſu<g ref="char:EOLhyphen"/>its</hi> who were executed in the Popiſh-Plot deny'd their concern therein, and in the words of Dying Men aſſerted their Innocency, it was objected a<g ref="char:EOLhyphen"/>gainſt them, that the Religion they had Imbibed allowed them for the good of that Church (whereof they were Members) to diſown what the came to ſuffer for: I ſhall not diſpute the Va<g ref="char:EOLhyphen"/>lidity or truth of the Charge, but ſure I am, a<g ref="char:EOLhyphen"/>mongſt Proteſtants, There is no ſuch tenent, to allow men in their laſt hours to ſpeak what is falſe on any pretence whatſoever, much leſs to give them liberty to charge themſelves and others with what they never did or were guilty of.</p>
+            <p>But to proceed, this Gentleman goes on, <hi>The Arguments</hi> (ſays he) <hi>before-mentioned, with many others to the ſame Effect, not only ſoon prevailed with me, but made me indeed think it my duty to do what I could for my King and Countries ſafety, being then fully perſwaded, that not only Popery, but Arbitrary Government was intended; not then conſidering, (as I have ſince conſidered) how much Bloodſhed it might have cauſed in the Nation; for then I thought all would have been ended in a little time, ſuppoſing things to be as to me was reported: But I now declare my Hearty Sorrow for my yielding thereto, and acting therein; (this I can ſafely ſay, I was not for taking a<g ref="char:EOLhyphen"/>way the Kings Life, but wholly for his Preſervation) yet am ſatisfied that it might have cauſed very much Bloodſhed in the Nation, and am glad it did not take Effect. And am ſatisfied it was a great Sin againſt God,</hi> &amp;c.</p>
+            <p>What this Gentleman gives to palliate his of<g ref="char:EOLhyphen"/>fence, and make that a Duty as he calls it, which was his Crime, is ſo far from giving any Colour thereunto, that let any ſober man obſerve it, and he will conclude it rather a Sopheſtical aggravati<g ref="char:EOLhyphen"/>on thereof. <hi>I thought it my duty,</hi> ſays he, <hi>to do what I could for my King and Countrys ſafety.</hi> A ſpecious pretence, but pray mark him, an Inſur<g ref="char:EOLhyphen"/>rection was to be made, the Peace we had ſo long enjoyed, and was then likely to enjoy could they have been quiet, was intended to be diſturbed. We neither heard of Warrs nor Rumours of Warrs, but from themſelves; the King was to have been ſeized, his Friends taken from him under the Ti<g ref="char:EOLhyphen"/>tle of <hi>Evil Councellors,</hi> and yet this Conſiſtent with the King and Kingdoms ſafety, nay, the Life of his Sacred Majeſty was threatned, his Royal Brother to ſhare the like Fate, and this known (as above) to the Priſoner, and all the while he and his Brother Phanaticks doing their Duty for their King and their Country. Oh! but <hi>Popery and Arbitrary Government was intended.</hi> I know not in caſe of their deſigns going forward, what ſe<g ref="char:EOLhyphen"/>curity we ſhould have had againſt Popery, tho' I am apt to believe it had been the greateſt help to the introduction of it, under the Common diſturbances that would have enſued, that they themſelves could have wiſh'd for; as for the Latter, I may be more certain, that nothing could have poſſibly followed the ſame, if ever they had pre<g ref="char:EOLhyphen"/>prevailed, but the moſt Tyrannical and ſlaviſh Government in the World; for that Kingdom whoſe Foundation is in Blood, muſt have its Su<g ref="char:EOLhyphen"/>perſtructure in Slaughter; and nothing but De<g ref="char:EOLhyphen"/>vaſtation and Ruine of the beſt, at the will and pleaſure of the worſt, can ever be expected there<g ref="char:EOLhyphen"/>in. An Inſtance whereof too many of us too fa<g ref="char:EOLhyphen"/>tally remember in the late Uſurpers days, our Channels were filled at the Expence of our De<g ref="char:EOLhyphen"/>caeſt and moſt Loyal Veins; the Scaffolds, beſides that of the beſt of Kings, was almoſt every Month ſtain'd with ſome or other of our Nobles Blood; our Eſtates at the Mercy of a Tyrant, who thought it crime enough for any man to think him ſo; and as if he could have ſeen into their Breaſt, though their Lips ne're uttered the ſame, that or their Lives were the Price of their inex<g ref="char:EOLhyphen"/>preſſed Loyalty: and this is all good men might behold, as the end of the ſaid Deſigns of our late Plotters, had the ſame taken effect; and which is the next words, our ſufferer takes notice of, <hi>not conſidering then how much Blood,</hi> &amp;c. But this he confeſſes brought him to a ſorrow for his Intentions, and he owns it before all the world; <hi>That he then was glad it did not take Effect,</hi> and owns it as a Sin againſt God Almighty, <hi>not only in deſtruſting his Providence, but taking his Work out of his Hands;</hi> and certainly, if we conſider that God hath placed our great Magiſtrate over us to be obey'd, and hath left himſelf only his Su<g ref="char:EOLhyphen"/>periour to call him to account for his actions in the Throne he hath Seated him; each irreverent word, or diſobedient thought to this his Subſti<g ref="char:EOLhyphen"/>tute on Earth, is a Crime againſt Heaven, how much more then would it be, to ſtrive with theſe Saints, theſe Proteſtants, Reformers, and true Chriſtians, though indeed the worſt of Rebels, to dethrone him. Could they plead in excuſe, that as he is the beſt of Kings, he was the worſt of Tyrants; as he is the moſt merciful amongſt all the Princes in the World, he was the moſt Savage and cruel; as he rules and governs in the higheſt and exacteſt Juſtice, diſtributing to every man his right, the Sword was his only Arbiter; and the Portion of every mans Inheritance, the right of his pleaſure; yet theſe were not enough to Juſtify a Rebellion, to ſuch a Prince we are bound by all Laws Humane and Divine to ſubmit. But happy is it for us, we have as much reaſon to obey him for his goodneſs, as we are bound to do the ſame in Duty; and may all thoſe that think otherwiſe, meet a reward for their Crimes, proportionable to the ſame. But our Sufferer, after his Confeſſion aforeſaid, comes and tells you, <hi>that he was not, nor would be compelled to ſay what he did, but that it was his Reſolution to declare all he knew concerning the Plot, and alſo to do what in him lay to prevent all Plottings for the Future, and to put an end to the Heats,</hi> &amp;c. and afterwards ſays, <hi>when I gave in
+<pb facs="tcp:51191:3" rendition="simple:additions"/>my Confeſſion, I ſtood not upon terms of a Pardon, being confident if Truth will merit Mercy from the King, I ſhould have his Pardon, and that it was the only way to gain Mercy with God.</hi> And afterwards, <hi>I Repent not my Confeſſion, and could I diſcover more, I would do it willingly, though I find not Mercy with Man.</hi> So that upon the whole, here is a Ingenious Confeſ<g ref="char:EOLhyphen"/>ſion of the ſaid Phanatical Plot, and a proofe a<g ref="char:EOLhyphen"/>gainſt all the Cavils of the worſt of men, that the ſame was not a ſlight and ill grounded deſign, but laid deep, and intended againſt the bottom of the Government, againſt the life of the beſt of Kings and Brothers, and in ſhort againſt Monar<g ref="char:EOLhyphen"/>ch and Monarchy it ſelf, whom God grant long Preſervation unto.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. Davis</hi> in <hi>Amen-Corner,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
